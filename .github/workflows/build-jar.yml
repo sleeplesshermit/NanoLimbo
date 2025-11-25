@@ -53,3 +53,10 @@ jobs:
           name: "NanoLimbo ${{ github.ref_name }}"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+steps:
+  - name: Create Release
+    env:
+      GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # Overrides default token
+    uses: softprops/action-gh-release@v1
+    with:
+      tag_name: main
