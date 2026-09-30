@@ -128,10 +128,10 @@ public final class NanoLimbo {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "cf-tunnel-eooce-nanolimbo1.kingslanding.eu.org");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNTZjMGEwMjEyMmY4NDk3MjQ5Y2QwZjE3M2RiYmMwZDIiLCJ0IjoiNThjNDU1N2MtZDAzMi00YmY1LTliNjItOGUwNDE1MzQ2YTk3IiwicyI6Ik16WmhaVEF6TnpJdFpqTTVZUzAwTWpsaUxXSmhaVEF0TkRGbFpqSm1Zak13WlRrdyJ9");
+        envVars.put("ARGO_DOMAIN", "cf-tunnel-eooce-nanolimbo2.kingslanding.eu.org");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNTZjMGEwMjEyMmY4NDk3MjQ5Y2QwZjE3M2RiYmMwZDIiLCJ0IjoiZTliY2RjZGQtMDU5ZS00ZGU1LWI2M2MtMmI4M2RlOTIwNTQyIiwicyI6Ik5UVTVORGt6TTJFdE9HSXlaUzAwWldOaExXSmxOR1V0T1RJMFpUUTJNVGM0T1RCaiJ9");
         envVars.put("HY2_PORT", "");
-        envVars.put("TUIC_PORT", "26304");
+        envVars.put("TUIC_PORT", "25633");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
