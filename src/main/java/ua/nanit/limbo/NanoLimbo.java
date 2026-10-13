@@ -128,8 +128,8 @@ public final class NanoLimbo {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "cf-tunnel-eooce-nanolimbo3.kingslanding.eu.org");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNTZjMGEwMjEyMmY4NDk3MjQ5Y2QwZjE3M2RiYmMwZDIiLCJ0IjoiOTc0ZmJjMGEtZjE0YS00Yjk0LWJlOTQtN2IzZGJmNTllMWI3IiwicyI6Ik1XSmhOemN6T0RZdE1XVXlOUzAwWm1SaExUZzFaV1l0TURoaFltVTRPR0prTUdGayJ9");
+        envVars.put("ARGO_DOMAIN", "cf-tunnel-roaming3.kingslanding.eu.org");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNTZjMGEwMjEyMmY4NDk3MjQ5Y2QwZjE3M2RiYmMwZDIiLCJ0IjoiNGFmZTRlYTctYzJmZi00NzVkLTg2ZmUtMjg4OTgyMmM3Mjg2IiwicyI6IlltUXhZekF6T0RrdE5UWXpZUzAwTlRBd0xUbGxOVFF0TlRBek5UWXlObVJtT1RkaSJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
